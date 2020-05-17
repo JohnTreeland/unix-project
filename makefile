@@ -1,6 +1,7 @@
 README.md:
 	touch README.md
-	echo "Unix-Project" >> README.md
+	echo "#Unix-Project" >> README.md
+	echo "" >> README.md
 	echo "Make run at" >> README.md
 	date +%D >> README.md
 	date +%T >> README.md
